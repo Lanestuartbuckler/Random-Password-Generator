@@ -1,2 +1,2 @@
 # Random-Password-Generator
-Coded in Python, this generator can be used to generate a complex, encrypted password whenever creating a new account anywhere.
+Coded in Python. In a pinch, this generator can be used to create two random complex and encrypted passwords whenever creating a new account anywhere.
